@@ -1,6 +1,6 @@
 # react-weather-app
 
-A simple todo list react application.
+A simple react weather application.
 
 ## Installation
 
