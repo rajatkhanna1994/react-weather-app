@@ -27,10 +27,10 @@ class App extends React.Component {
         error: "Please enter the values"
       })
     }
-      else {
-        this.setState({
-          error: "Please enter a valid city and/or country name"
-        })
+    else {
+      this.setState({
+        error: "Please enter a valid city and/or country name"
+      })
     }
   }
 
