@@ -1,6 +1,6 @@
 # react-weather-app
 
-A simple react weather application.
+A simple weather application powered by react.
 
 ## Installation
 
